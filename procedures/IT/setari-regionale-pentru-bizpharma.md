@@ -29,7 +29,7 @@ fie, prin deschiderea `Control Panel` &rarr; `Regional Settings` sau `Region` (�
 
 ### Setează formatele și locația pentru România
 
-După ce apare fereastra `Region` a appletului `Intl.cpl`, din primul tab numit `Formats`, alege formatul pentru `Romanian (Romania)`.
+După ce apare fereastra `Region`, din primul tab numit `Formats`, alege formatul pentru `Romanian (Romania)`.
 
 ![img/intl-cpl.png](img/intl-cpl.png)
 
@@ -61,8 +61,7 @@ Apăsați `OK`.
 > Cele trei cuvinte au semnificația următoare:\
 > `Limbă (Locație) - Tastatură`
 
-Din fereastra `Region` de mai devreme, setați și regiunea sistemului de operare, pentru aplicațiile care nu suportă Unicode.
-
+Din fereastra `Region` de mai devreme, setați și regiunea sistemului de operare pentru aplicațiile care nu suportă Unicode.
 Dați click pe butonul `Change system locale...` și schimbați system locale în `Romanian (Romania)`:
 
 ![img/intl-cpl-change-system-locale.png](img/intl-cpl-change-system-locale.png)
