@@ -1,6 +1,6 @@
-# Setari regionale pentru BizPharma
+# Setări regionale pentru BizPharma
 
-- [Setari regionale pentru BizPharma](#setari-regionale-pentru-bizpharma)
+- [Setări regionale pentru BizPharma](#setări-regionale-pentru-bizpharma)
   - [Instrucțiuni pentru efectuarea setărilor](#instrucțiuni-pentru-efectuarea-setărilor)
     - [Deschide setările regionale](#deschide-setările-regionale)
     - [Setează formatele și locația pentru România](#setează-formatele-și-locația-pentru-românia)
