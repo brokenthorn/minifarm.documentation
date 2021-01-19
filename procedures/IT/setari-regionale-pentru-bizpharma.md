@@ -1,11 +1,14 @@
 # Setări regionale pentru BizPharma
 
 - [Setări regionale pentru BizPharma](#setări-regionale-pentru-bizpharma)
+  - [Introducere](#introducere)
   - [Instrucțiuni pentru efectuarea setărilor](#instrucțiuni-pentru-efectuarea-setărilor)
     - [Deschide setările regionale](#deschide-setările-regionale)
     - [Setează formatele și locația pentru România](#setează-formatele-și-locația-pentru-românia)
     - [Copiază setările la nivel global pentru acest PC](#copiază-setările-la-nivel-global-pentru-acest-pc)
     - [Finalizare](#finalizare)
+
+## Introducere
 
 BizPharma are nevoie obligatorie ca regiunea și formatul datei și al cifrelor pe utilizatorul curent cât și pe întreg sistemul de operare, să fie setate pe `Romanian`, altfel pot apărea erori evidente iar alteori mai puțin evidente și mai greu de depistat.
 
