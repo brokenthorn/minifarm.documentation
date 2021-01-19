@@ -113,8 +113,6 @@ Dacă ați mers pe setările convenționale, portul COM trebuie configurat astfe
 | Parity | None |
 | Transmission speed | 9600 bps |
 
-Aceste setări se pun opțional și pe portul convertorului USB-COM din Device Manager. Este opțional deoarece setările de mai devreme de pe portul virtual EPSON APD (numit `ESDPRT001`) se aplică automat portului COM al convertorului înainte de deschiderea acestuia (cele din Device Manager sunt doar default-uri valabile atunci când un soft nu specifică alte preferințe).
-
 ## Instalare EPSON TM Virtual Port Driver Port Assignment Tool
 
 Driverul `EPSON TM Virtual Port Driver Port Assignment Tool` se descarcă de [aici](https://download.epson-biz.com/modules/pos/index.php?page=single_soft&cid=6481&scat=36&pcat=5).
